@@ -3,7 +3,6 @@ officeParserTemp/
 officeParser.bk.js
 *.DS_Store
 .vscode/
-/dist/
 *.actual.json
 *.actual.txt
 *.traineddata
